@@ -1,7 +1,11 @@
 ---
-# 2022Apr11 mcvogt mike clones the normal Azure Anomaly Detector 1.0 repo...
-# simple edits to make sure all is working between local VSCode and GitHub...
-
+# MIKES JOURNAL
+# 2022Apr11 mcvogt 
+- started project
+- forked and the cloned repor from github.com
+- updated README.md file
+- simple edits to make sure all is working between local VSCode and GitHub...
+======================================================================================================================================================
 
 
 page_type: sample
